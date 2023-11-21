@@ -1,0 +1,24 @@
+/* Estilo para os títulos <li> em amarelo */
+li {
+    color: yellow;
+}
+
+/* Estilo para os textos em <p> em laranja */
+p {
+    color: orange;
+}
+
+/* Estilo para todos os cabeçalhos <h> em branco */
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+/* Estilo para o fundo preto */
+body {
+    background-color: black;
+}
+
+/* Estilo para os links em verde */
+a {
+    color: green;
+}
